@@ -1,8 +1,6 @@
 ## cv-saddamn
 Website CV Pribadi milik Shaddam Atha Nugraha.
 
-## Website Curriculum Vitae
-
 ## Tentang Website
 Website ini dibuat sebagai proyek tugas perkuliahan
 Program Studi Sistem Informasi.
