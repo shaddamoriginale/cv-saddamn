@@ -2,7 +2,7 @@
 Website CV Pribadi milik Shaddam Atha Nugraha.
 
 ## Tentang Website
-Website ini dibuat sebagai proyek tugas perkuliahan
+Website ini dibuat sebagai proyek tugas UTS perkuliahan
 Program Studi Sistem Informasi.
 
 ## Teknologi
